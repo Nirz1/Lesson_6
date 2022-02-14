@@ -1,0 +1,173 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=Pacifico&family=Roboto:wght@900&display=swap");
+
+body {
+	font-family: "Comfortaa", cursive;
+	font-size: 20px;
+	line-height: 120%;
+}
+
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	padding: 15px;
+}
+
+.title {
+	text-align: center;
+	margin: 20px;
+	font-weight: 900;
+	font-family: "Roboto", sans-serif;
+	font-size: 40px;
+	color: rgba(0, 0, 0, 0.842);
+	text-shadow: 4px 5px 8px rgb(104, 58, 58), 1px 1px 1px red;
+}
+
+.listmenu li {
+	color: rgb(192, 128, 33);
+	padding-bottom: 8px;
+}
+
+nav {
+	margin-bottom: 20px;
+}
+
+.text1 {
+	margin-bottom: 20px;
+	border: 4px solid #000;
+	box-shadow: 2px 2px 5px 2px #000;
+}
+
+.intro-titl {
+	font-size: 30px;
+	font-weight: 700;
+	color: rgb(83, 54, 9);
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.text-intro {
+	display: inline-block;
+	color: rgb(167, 71, 71);
+	max-width: 50%;
+	margin: 0 0 20px 0;
+	outline: 3px dashed #000;
+	border-radius: 10px;
+}
+
+.img1 {
+	margin: 0 auto 20px 150px;
+	border-radius: 30px 30px 30px 30px;
+	box-shadow: 8px 10px 10px 3px #000, 5px 3px 5px 1px red;
+}
+
+.titl-child {
+	font-size: 30px;
+	font-weight: 700;
+	text-align: center;
+	color: rgb(58, 153, 58);
+	margin-bottom: 20px;
+}
+
+.text-child {
+	overflow: scroll;
+	max-width: 50%;
+	margin: 0 auto 20px auto;
+	max-height: 300px;
+	text-decoration: underline;
+	opacity: 0.5;
+}
+
+.title-amater {
+	font-size: 30px;
+	font-weight: 700;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.text-tabl p {
+	margin-bottom: 20px;
+}
+
+.text-tabl li {
+	margin-bottom: 20px;
+	margin-left: 20px;
+	text-decoration: underline;
+	color: rgb(226, 214, 43);
+}
+
+.text-tabl a {
+	border-bottom: 3px solid rgb(94, 51, 51);
+	color: red;
+	font-size: 25px;
+}
+
+.doptext {
+	max-width: 40%;
+	border: 3px dotted #000;
+	font-family: "Pacifico", cursive;
+	font-size: 23px;
+	color: rgb(57, 45, 68);
+	display: inline-block;
+	margin-bottom: 20px;
+}
+
+.title-box {
+	color: red;
+	text-align: center;
+	font-family: "Pacifico", cursive;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+.text-box {
+	max-width: 30%;
+	margin: 0 0 0 auto;
+	text-shadow: 3px 15px 15px rgb(226, 250, 9);
+}
+
+.text-box p {
+	margin-bottom: 20px;
+}
+
+.scroll {
+	overflow: scroll;
+	max-height: 500px;
+	color: rgb(0, 174, 255);
+	font-family: "Pacifico", cursive;
+}
+
+.tablname li {
+	margin: 0 0 20px 5px;
+}
+
+.img2,
+.img3 {
+	margin-bottom: 20px;
+	border-radius: 30px;
+	box-shadow: 3px 5px 5px 2px #000;
+}
+
+.title-life {
+	font-size: 30px;
+	font-weight: 700;
+	color: rgb(239, 243, 17);
+	text-align: center;
+}
+
+.imglife {
+	height: 300px;
+	width: 300px;
+	overflow: hidden;
+	border-radius: 50%;
+}
+
+.textrf {
+	border: 3px solid #000;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: inset 0px 0px 10px 0px #000, 3px 2px 7px 2px green;
+}
+
+.textlife p {
+	margin: 20px 0 20px 0;
+	max-width: 50%;
+}
